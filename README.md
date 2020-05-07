@@ -1,7 +1,7 @@
 # split-pdf-files-into-separate-pages
 ### Python 3 program that separates PDF files in its current working directory
 ---------Dependencies: PyPDF2
-Run `pip3 install -r requirements.txt` to install all the dependencies
+Run `pip3 install PyPDF2
  
 ---------Usage
  
